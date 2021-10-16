@@ -5,7 +5,7 @@
     {
       "id": "did:web:georgedavidescu.github.io:alice#1",
       "type": "JsonWebKey2020",
-      "controller": "did:web:georgedavidescu.github.io",
+      "controller": "did:web:georgedavidescu.github.io:alice",
       "publicKeyJwk": {
         "kty": "OKP",
         "crv": "Ed25519",
