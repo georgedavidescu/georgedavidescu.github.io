@@ -1,0 +1,22 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:georgedavidescu.github.io",
+  "publicKey": [
+    {
+      "id": "did:web:georgedavidescu.github.io#1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:georgedavidescu.github.io",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "lNVGB8T8kt4-gEm03uwys4F98nE96NDKv3ouWUNqGcg"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:georgedavidescu.github.io#1"
+  ],
+  "authentication": [
+    "did:web:georgedavidescu.github.io#1"
+  ]
+}
